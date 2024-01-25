@@ -13,5 +13,6 @@ public class ArrayListDemo2 {
 		list.add(20);
 		list.add(50);
 		System.out.println(list);
+		System.out.println("List number data is>>>>>");
 	}
 }
